@@ -1,0 +1,18 @@
+{
+    "countries" : [
+        {"name": "Belgium" , "capital": "Brussels"},
+        {"name": "Germany" , "capital": "Berlin"},
+        {"name": "Greece" , "capital": "Athens"},
+        {"name": "Hungary" , "capital": "Budapest"},
+        {"name": "Latvia" , "capital": "Riga"},
+        {"name": "Netherlands" , "capital": "Amsterdam"},
+        {"name": "Poland" , "capital": "Warsaw"},
+        {"name": "Portugal" , "capital": "Lisbon"},
+        {"name": "Russia" , "capital": "Moscow"},
+        {"name": "Serbia" , "capital": "Belgrade"},
+        {"name": "Spain" , "capital": "Madrid"},
+        {"name": "Sweden" , "capital": "Stockholm"},
+        {"name": "Switzerland" , "capital": "Bern"},
+        {"name": "UK" , "capital": "London"}
+    ]
+}
